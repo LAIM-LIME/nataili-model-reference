@@ -4433,7 +4433,7 @@
     "name": "Vector Art",
     "baseline": "stable diffusion 2",
     "type": "ckpt",
-    "description": "Note: this model generates different images than pulp vector art. This is a style model for Stable Diffusion mimicking vector style.",
+    "description": "This is a style model for Stable Diffusion 2.1 mimicking vector style.",
     "version": "beta",
     "style": "vector art",
     "homepage": "https://civitai.com/models/4618/vector-art",
